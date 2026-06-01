@@ -2,6 +2,7 @@
 
 ## QUESTION:
 Write a program to print "Hey, my first java program!" using output statement.
+
 <img width="242" height="120" alt="image" src="https://github.com/user-attachments/assets/35223eec-6ad7-4668-a140-ed2e48dc2db2" />
 
 ## AIM:
